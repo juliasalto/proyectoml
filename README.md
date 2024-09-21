@@ -9,8 +9,8 @@
 - **Título del Proyecto: Ruta de profundización - Machine Learning**
   
 - Enlaces de interés:
-    - [Presentación](https://drive.google.com/file/d/1iQAQyOKpjVbo8Yeg9dxmHpz1fC0QLpqJ/view?usp=sharing)
-    - [Video presentación](https://www.loom.com/share/0095f77fe38449ec986abeee3a325b61?sid=8bfb6605-30bc-4737-bfd0-67180077c661)
+    - [Presentación](https://drive.google.com/file/d/1AUBwCa_iIXGMy4kHkrlxIBT-IdZdGWno/view?usp=sharing)
+    - [Video presentación](https://www.loom.com/share/3f173416c77e46ebb4d7048b0b0896ff?sid=6ba84838-f2f4-4d8a-903e-344ac1b44d06)
  
 - **Objetivo:**
     - Desarrollar un modelo de machine learning supervisado cuya finalidad es prever con precisión si un empleado está propenso a abandonar la organización.
